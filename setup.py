@@ -25,7 +25,7 @@ setup(
     install_requires=[
         'requests==2.33.0',
         'requests-oauthlib==1.3.0',
-        'oauthlib==3.1.0',
+        'oauthlib==4.0.0',
         'pytz'
     ],
     test_suite='tests',
